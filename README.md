@@ -33,8 +33,7 @@ This table lists all of the pages on the Clique Bait website which are tagged an
 ## 1. Enterprise Relationship Diagram
 Using the following DDL schema details to create an ERD for all the Clique Bait datasets.
 
-
-/8Week-SQL-Challenge-Case-Study-6-Clique-Bait/ERD_Diagram.jpg
+![ERD diagram](/ERD_Diagram.jpg)
 
 
 ## 2. Digital Analysis
