@@ -32,7 +32,7 @@ This table lists all of the pages on the Clique Bait website which are tagged an
 # Case Study Questions
 ## 1. Enterprise Relationship Diagram
 Using the following DDL schema details to create an ERD for all the Clique Bait datasets.
-
+..\ERD_Diagram.jpg
 
 ## 2. Digital Analysis
 Using the available datasets - answer the following questions using a single query for each one:
@@ -76,3 +76,6 @@ Generate a table that has 1 single row for every unique visit_id record and has 
 - impression: count of ad impressions for each visit
 - click: count of ad clicks for each visit
 - (Optional column) cart_products: a comma separated text value with products added to the cart sorted by the order they were added to the cart (hint: use the sequence_number)
+
+
+For detailed explanation, visit my medium page [Medium Page](https://medium.com/@adamufunmilayo/8week-sql-challenge-case-study-6-clique-bait-193295527ad9). 
